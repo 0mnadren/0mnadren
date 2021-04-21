@@ -3,7 +3,10 @@ I'm Nemanja from Serbia, I started learning programming fairly recently ago. I r
 I'm currently learning Django framework.
 If you are interested in my works, here is my portfolio.
 
-Skills: DJANGO / PYTHON / JS /  BOOTSTRAP / CSS / HTML
+## Skills and Experience
+  * https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png DJANGO 
+  * PYTHON 
+  * JS, BOOTSTRAP, CSS, HTML
 
 - 🔭 I’m currently working on Django ToDo App 
 
