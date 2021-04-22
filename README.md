@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nemanja Davidović
-I'm Nemanja from Serbia, I started learning programming fairly recently ago. I really like learning languages and frameworks.
+I'm a software developer from Serbia, I started learning programming fairly recently. I really like learning languages and frameworks.
 I'm currently learning Django framework.
 If you are interested in my works, check my portfolio.
 
