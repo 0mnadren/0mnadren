@@ -12,6 +12,6 @@ If you are interested in my works, check my [portfolio](https://nemanjadavidovic
 Enthusiastic about JavaScript and JS Framework
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@0mnadren) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nemanja-davidovic-py/) 
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png' alt='twitter' height='40'>](https://twitter.com/@0mnadren) [<img src='https://avatars.githubusercontent.com/u/357098?s=200&v=4' alt='linkedin' height='40'>](https://www.linkedin.com/in/nemanja-davidovic-py/) 
 
 
